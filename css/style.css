@@ -13,7 +13,9 @@ top: 20px;
 }
 
 .basket_product{
-    background: rgb(175, 10, 82);   
+    background: rgb(175, 10, 82); 
+    padding: 10px;
+    text-transform: uppercase;  
 }
 .buy-modal_hide {
     display: none;
