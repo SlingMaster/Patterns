@@ -1,7 +1,7 @@
 .product {display: block; cursor: pointer;}
 .basket_products-list {
     min-height: 5px;
-    border-top: solid 2px rgb(3, 255, 108);
+    border-top: solid 2px #036;
     padding-top: 5px;
 } 
 .buy-modal{ position: absolute;
