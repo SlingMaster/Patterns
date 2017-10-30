@@ -1,7 +1,8 @@
 .product {display: block; cursor: pointer;}
 .basket_products-list {
-    background: rgb(255, 153, 196); 
     min-height: 5px;
+    border-top: solid 2px #036;
+    padding-top: 5px;
 } 
 .buy-modal{ position: absolute;
 display: block;
@@ -15,7 +16,8 @@ top: 20px;
 .basket_product{
     background: rgb(175, 10, 82); 
     padding: 10px;
-    text-transform: uppercase;  
+    text-transform: uppercase; 
+    margin: 1px; 
 }
 .buy-modal_hide {
     display: none;
